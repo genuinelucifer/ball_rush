@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1387530685 source:e:\code blocks projects\3d\game1\main.cpp
+	"myfuncs.h"
+	"consts.h"
+
+1387528907 e:\code blocks projects\3d\game1\myfuncs.h
+	"mytypes.h"
+
+1368260360 e:\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1368260360 e:\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1387528937 source:e:\code blocks projects\3d\game1\myfuncs.cpp
+	"myfuncs.h"
+	"consts.h"
+
+1387264632 e:\code blocks projects\3d\game1\mytypes.h
+
+1387529254 e:\code blocks projects\3d\game1\consts.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<fstream>
+	<stdlib.h>
+	<ctime>
+	<cmath>
+	<string>
+	<sstream>
+	"text3d.h"
+
+1387264632 source:e:\code blocks projects\3d\game1\mytypes.cpp
+	"mytypes.h"
+	"consts.h"
+
+1387529206 e:\code blocks projects\3d\game1\text3d.h
+	<string>
+
+1387529206 source:e:\code blocks projects\3d\game1\text3d.cpp
+	<fstream>
+	<math.h>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"text3d.h"
+
